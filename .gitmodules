@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:j-ac/personal_site_build.git
